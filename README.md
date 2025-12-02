@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/rebound-text.png" alt="Rebound Logo" width="150" />
+</div>
+
 # 🏀 Rebound TS
 
 > A lightweight, robust, and type-safe retry decorator for TypeScript and NestJS.
@@ -86,3 +90,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📄 License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+<div align="center">
+  <img src="./assets/rebound-logo.png" alt="Rebound Logo" width="50" />
+</div>
