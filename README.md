@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="./assets/rebound-text.png" alt="Rebound Logo" width="150" />
+  <img src="https://raw.githubusercontent.com/raulcabralc/rebound-ts/main/assets/rebound-text.png" alt="Rebound Logo" width="150" />
 </div>
+
+<p>
+    <a href="https://www.npmjs.com/package/rebound-ts"><img src="https://img.shields.io/npm/v/rebound-ts" alt="NPM Version" /></a> <a href="./LICENSE"><img src="https://img.shields.io/npm/l/rebound-ts" alt="License" /></a>
+  </p>
 
 # 🏀 Rebound TS
 
@@ -85,12 +89,13 @@ class PaymentProcessor {
 
 ## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome!
 
 ## 📄 License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+
 <div align="center">
-  <img src="./assets/rebound-logo.png" alt="Rebound Logo" width="50" />
+  <img src="https://raw.githubusercontent.com/raulcabralc/rebound-ts/main/assets/rebound-logo.png" alt="Rebound Logo" width="50" />
 </div>
