@@ -1,0 +1,12 @@
+src/
+tsconfig.json
+.vscode/
+.idea/
+.gitignore
+.github/
+test-manual.ts
+test.ts
+*.log
+.DS_Store
+package-lock.json
+yarn.lock

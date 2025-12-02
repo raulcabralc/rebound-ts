@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Build Outputs
+dist/
+lib/
+build/
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing & Coverage
+coverage/
+.nyc_output/
+
+# IDE & Editor Configuration
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+.env.test
+.env.production
